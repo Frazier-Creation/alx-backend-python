@@ -1,7 +1,6 @@
 #!/usr/bin/env python3
 # 1-concurrent_coroutines.py
-"Contains a method that spawns wait_random n times with
-specified delay between each call."
+"Contains a method that spawns wait_random n times with specified delay between each call."
 import asyncio
 from typing import List
 
